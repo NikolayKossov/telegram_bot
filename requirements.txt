@@ -1,2 +1,5 @@
 pyTelegramBotAPI==4.9.0
 python-dotenv==0.21.1
+peewee
+git+https://github.com/ksinn/python-telegram-bot-pagination.git
+
