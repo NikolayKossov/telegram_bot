@@ -44,7 +44,7 @@ Add the following to your `.env` file:
 
 ```
 BOT_TOKEN=your_telegram_bot_token (get it from BotFather)  
-MOVIE_API_KEY=your_movie_api_key (e.g., from TMDB or Kinopoisk)
+MOVIE_API_KEY=your_movie_api_key (e.g., from Kinopoisk)
 ```
 
 ### Start:
@@ -56,7 +56,7 @@ python main.py
 ## Usage
 
 Open Telegram and start the bot using `/start`.  
-Then type the name of a movie (e.g., “Inception” or “comedy with Jim Carrey”), and the bot will reply with relevant results.
+Then type the name of a movie (e.g., "Terminator"), and the bot will reply with relevant results.
 
 ## The Structure
 
