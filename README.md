@@ -55,7 +55,7 @@ python main.py
 
 ## Usage
 
-Open Telegram and start the bot using `/start`.  
+Open Telegram and start the bot using `/start`, `/movie_search`.  
 Then type the name of a movie (e.g., "Terminator"), and the bot will reply with relevant results.
 
 ## The Structure
